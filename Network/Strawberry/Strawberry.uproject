@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{BA756DA6-C840-238F-5681-3AB32657A980}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Strawberry",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
